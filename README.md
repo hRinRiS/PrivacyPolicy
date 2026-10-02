@@ -47,7 +47,7 @@ Google Analytics、Firebase、その他のアクセス解析ツールや追跡�
 
 **開発者：** RinRiS
 
-**お問い合わせ先：** hrinris@gmail.com
+**お問い合わせ先：** hrinris.rain@gmail.com
 
 **制定日：** 2026年10月2日
 

@@ -69,7 +69,7 @@ Unity Technologiesによる情報の取扱いについては、同社の[プラ�
 ---
 
 <details markdown="1">
-<summary><strong>🇺🇸 English — Click to expand or collapse</strong></summary>
+<summary><strong>English — Click to expand or collapse</strong></summary>
 
 # Privacy Policy
 

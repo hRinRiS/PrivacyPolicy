@@ -6,7 +6,7 @@ Privacy Policy for applications developed by hRinRiS.
 
 ---
 
-<details open>
+<details markdown="1">
 <summary><strong>🇯🇵 日本語 — クリックして開閉</strong></summary>
 
 # プライバシーポリシー
@@ -68,7 +68,7 @@ Unity Technologiesによる情報の取扱いについては、同社の[プラ�
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>🇺🇸 English — Click to expand or collapse</strong></summary>
 
 # Privacy Policy
